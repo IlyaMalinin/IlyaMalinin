@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Илья Малинин.
 
-<!--
-**IlyaMalinin/IlyaMalinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Backend Developer
 
-Here are some ideas to get you started:
+- 🔭 Сейчас работаю над проектами на Django
+- 🌱 Изучаю Docker и микросервисную архитектуру
+- 💼 Ищу возможности для карьерного роста
+- 📫 Связь: ckiv.m@yandex.ru, @MayTaranP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Мой стек технологий
+
+**Backend:** Python, Django, DRF
+**Инструменты:** Git, Docker, Linux, Nginx, Gunicorn
+**Дополнительно:** HTML, SQLite, SQL, API
+
+## 📈 Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlyaMalinin&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaMalinin&layout=compact)
