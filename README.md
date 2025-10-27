@@ -26,3 +26,9 @@
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## 📞 Контакты
+
+- **Email:** ckiv.m@yandex.ru
+- **Telegram:** @MayTaranP
+- **HeadHunter:** [Мое резюме на HH](https://spb.hh.ru/resume/b3c92f12ff0f7fbd9e0039ed1f555a656c6a6b)
